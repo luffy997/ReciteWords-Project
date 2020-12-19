@@ -13,8 +13,6 @@
 
 LD算法就是自然语言处理(NLP)里的“编辑距离”算法。俄国科学家Lowenstein提出的，故又叫Lowenstein Distance （LD算法），该算法是指指两个字符串之间，由一个转成另一个所需的最少编辑操作次数。许可的编辑操作包括将一个字符替换成另一个字符，插入一个字符，删除一个字符。一般来说，编辑距离越小，两个串的相似度越大。用于计算单词和单词之间的相似度，在用户进行背单词时生成模糊选项，图解如下：
 ![编辑距离算法.png](https://i.loli.net/2020/12/19/IwokRrbe1nXVLBY.png)
-![图解1.png](https://i.loli.net/2020/12/19/tS4zGTaqKRYno6g.png)
-![图解2.png](https://i.loli.net/2020/12/19/gVDorKMOsI4yFZm.png)
 
 
 
